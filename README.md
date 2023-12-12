@@ -14,15 +14,15 @@ There are built in tests for this library that can be run to ensure the function
 
 # Built with cmath & iosteam imports
 
-#Authors
+# Authors
 Miles Fritzmather
 Binh Strubhar
 Saffron Liu
 Yohannes Heinaman 
 Sanwi Sirode
 
-#License
+# License
 LASA Computer Science Department
 
-#Adknowledgements
+# Adknowledgements
 Mr.Shockey for putting us through this hell :)
