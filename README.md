@@ -14,6 +14,20 @@ There are built in tests for this library that can be run to ensure the function
 
 # Built with cmath & iosteam imports
 
+# Structure
+**DEFAULT TREE STRUCTURE**
+├── CMakeLists.txt
+├── app
+│   └── main.cpp
+├── include
+│   ├── example.h
+│   └── exampleConfig.h.in
+├── src
+│   └── example.cpp
+└── tests
+    ├── dummy.cpp
+    └── main.cpp
+
 # Authors
 Miles Fritzmather
 Binh Strubhar
